@@ -1,2 +1,2 @@
-# repositorio-2024
+# mi primer README
 retomando repositorio desde cero
